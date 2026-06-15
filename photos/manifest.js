@@ -1,0 +1,2 @@
+﻿window.GALLERY = [{"name":"Awards","photos":["photos/Awards/01.jpg","photos/Awards/02.jpg","photos/Awards/03.jpg","photos/Awards/04.jpg","photos/Awards/05.jpg","photos/Awards/06.jpg","photos/Awards/07.jpg","photos/Awards/08.jpeg","photos/Awards/09.jpg"]},{"name":"Filming","photos":["photos/Filming/01.jpg","photos/Filming/02.jpg","photos/Filming/03.jpg","photos/Filming/04.jpg","photos/Filming/05.jpg","photos/Filming/06.jpg","photos/Filming/07.jpg","photos/Filming/08.jpg","photos/Filming/09.jpg","photos/Filming/10.jpg","photos/Filming/11.jpg","photos/Filming/12.jpg"]}];
+
